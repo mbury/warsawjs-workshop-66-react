@@ -1,0 +1,1302 @@
+[
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "856b0fc0-463a-43c8-a44a-4679b8dca036",
+    "title": "Tasty Metal Fish",
+    "location": {
+      "address": "87459 Karolina Gateway, 96-865, South Bertrandside",
+      "delivery": 40
+    },
+    "rating": { "average": 6.4, "reviews": 216 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 71, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "6af2cb08-aa74-41e7-82ab-7ec5c90193ba",
+    "title": "Intelligent Granite Chips",
+    "location": {
+      "address": "63977 Irma Ranch, 64-692, Wesołowskimouth",
+      "delivery": 55
+    },
+    "rating": { "average": 8.8, "reviews": 469 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 70, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "600e7247-8337-478e-9b49-47115620e683",
+    "title": "Intelligent Cotton Bike",
+    "location": {
+      "address": "991 Mackiewicz Canyon, 02-398, New Nestor",
+      "delivery": 90
+    },
+    "rating": { "average": 3.4, "reviews": 746 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 97, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "6c6777a4-5643-4dda-889e-9a1786f0868c",
+    "title": "Refined Plastic Pants",
+    "location": {
+      "address": "2829 Sołtysiak Estates, 31-996, Kamilatown",
+      "delivery": 30
+    },
+    "rating": { "average": 7.9, "reviews": 55 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 86, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "7e4a740e-54a9-4733-9443-49c07528c5d5",
+    "title": "Refined Cotton Gloves",
+    "location": {
+      "address": "57684 Galfryd Well, 51-719, South Koraliachester",
+      "delivery": 85
+    },
+    "rating": { "average": 3.9, "reviews": 640 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 96, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "7e10bcf4-6156-4b0a-9192-1ccca8bb04b6",
+    "title": "Refined Rubber Fish",
+    "location": {
+      "address": "4603 Robert Hollow, 24-930, East Angelinaberg",
+      "delivery": 50
+    },
+    "rating": { "average": 2.9, "reviews": 73 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 67, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "67196bb5-df1d-44ce-ae2b-543e62cfb971",
+    "title": "Handmade Fresh Cheese",
+    "location": {
+      "address": "9066 Reginald Lock, 55-709, West Joanna",
+      "delivery": 40
+    },
+    "rating": { "average": 8.2, "reviews": 493 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 65, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "a8e8ff08-da30-4145-a350-9841b7ffc75f",
+    "title": "Handcrafted Plastic Hat",
+    "location": {
+      "address": "512 Konrad Center, 18-263, Lake Bertramville",
+      "delivery": 75
+    },
+    "rating": { "average": 8.7, "reviews": 855 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 92, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "eccf6c52-5ee4-423f-9973-84e2fcb6c6ca",
+    "title": "Ergonomic Fresh Shirt",
+    "location": {
+      "address": "63879 Edward Villages, 74-300, New Wilfryd",
+      "delivery": 30
+    },
+    "rating": { "average": 2.6, "reviews": 698 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 56, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "ceedd84c-bbe5-464b-9d7b-c29a7a9ba459",
+    "title": "Rustic Soft Chair",
+    "location": {
+      "address": "3427 Kawa Road, 15-098, Emanuelfort",
+      "delivery": 55
+    },
+    "rating": { "average": 1.9, "reviews": 347 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 119, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "32fae248-232f-47e3-9769-20ab152ebc82",
+    "title": "Sleek Metal Soap",
+    "location": {
+      "address": "4015 Janik Fort, 86-781, Port —",
+      "delivery": 45
+    },
+    "rating": { "average": 6.3, "reviews": 890 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 143, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "2977d680-2141-4f87-87f4-b89b5a75067c",
+    "title": "Gorgeous Granite Pants",
+    "location": {
+      "address": "96641 Robert Path, 83-968, Stachowiczburgh",
+      "delivery": 65
+    },
+    "rating": { "average": 6.1, "reviews": 540 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 75, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "3404914c-a896-48bb-bfc6-dca4d75d217c",
+    "title": "Incredible Frozen Soap",
+    "location": {
+      "address": "50297 Ksenofont Harbors, 30-651, Kubicamouth",
+      "delivery": 70
+    },
+    "rating": { "average": 6.4, "reviews": 177 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 36, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "9e71364a-8afc-43f1-bc12-adfc89731604",
+    "title": "Refined Frozen Chicken",
+    "location": {
+      "address": "36449 Dorota Vista, 19-338, Borkowskiton",
+      "delivery": 40
+    },
+    "rating": { "average": 5.7, "reviews": 912 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 136, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "09d3d2f9-0983-4843-855c-fdd10addec82",
+    "title": "Small Plastic Cheese",
+    "location": {
+      "address": "7059 Eudoksja Spring, 83-646, Pawelecberg",
+      "delivery": 60
+    },
+    "rating": { "average": 7.7, "reviews": 452 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 140, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "6e9c7cae-f79f-4afc-96be-a27fbba93448",
+    "title": "Licensed Frozen Chair",
+    "location": {
+      "address": "212 Bazyli Run, 77-722, Izabelastad",
+      "delivery": 25
+    },
+    "rating": { "average": 6, "reviews": 708 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 93, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "a0cdacea-014d-40cb-9620-c7d166f5a7f1",
+    "title": "Incredible Plastic Soap",
+    "location": {
+      "address": "7381 Antonina Turnpike, 67-086, Klemensland",
+      "delivery": 60
+    },
+    "rating": { "average": 8.5, "reviews": 572 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 38, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "0dae1917-3146-4909-b4f2-049191f2db86",
+    "title": "Intelligent Soft Mouse",
+    "location": {
+      "address": "536 Chrzanowski Viaduct, 35-777, East Adrianborough",
+      "delivery": 65
+    },
+    "rating": { "average": 9.8, "reviews": 255 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 29, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "411ba60d-2de7-4c87-9576-c38fd4923e0a",
+    "title": "Intelligent Concrete Cheese",
+    "location": {
+      "address": "7394 Klemens Hill, 87-347, South Liliaville",
+      "delivery": 30
+    },
+    "rating": { "average": 1.2, "reviews": 904 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 65, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c450ade8-4384-4cb4-8e9f-ceb74c9d7a5f",
+    "title": "Awesome Fresh Chair",
+    "location": {
+      "address": "474 Kałuża Summit, 22-286, Krawczykland",
+      "delivery": 30
+    },
+    "rating": { "average": 8.5, "reviews": 199 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 78, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "ed5881a5-d2f2-4eef-956c-fd969b303849",
+    "title": "Awesome Metal Computer",
+    "location": {
+      "address": "55846 Kwieciński Rest, 39-963, South Oskar",
+      "delivery": 30
+    },
+    "rating": { "average": 3.2, "reviews": 376 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 105, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "8c6e7d55-c5b4-41ee-950a-688b4e40e8d6",
+    "title": "Practical Plastic Towels",
+    "location": {
+      "address": "92582 Paula Ports, 65-623, North Tekla",
+      "delivery": 70
+    },
+    "rating": { "average": 8.4, "reviews": 602 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 94, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "34e8d6ed-28a2-42de-b6b8-c370c5507b75",
+    "title": "Ergonomic Plastic Pizza",
+    "location": {
+      "address": "9178 Nestor Stream, 64-817, East Agata",
+      "delivery": 85
+    },
+    "rating": { "average": 9, "reviews": 249 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 20, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "4ed74d8e-0cbd-4166-91ce-26d70d6d66d2",
+    "title": "Licensed Plastic Soap",
+    "location": {
+      "address": "34368 Lucjan Coves, 48-563, Lucjanshire",
+      "delivery": 90
+    },
+    "rating": { "average": 9.8, "reviews": 72 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 139, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "88689237-79a4-4423-bb4b-583a954f5860",
+    "title": "Rustic Fresh Gloves",
+    "location": {
+      "address": "865 Patryk Landing, 04-473, Bibiannaburgh",
+      "delivery": 70
+    },
+    "rating": { "average": 8.6, "reviews": 310 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 112, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5131374e-abfb-46e6-af07-013413365b9c",
+    "title": "Generic Concrete Soap",
+    "location": {
+      "address": "590 Natan Brook, 46-576, North Gerazymville",
+      "delivery": 30
+    },
+    "rating": { "average": 9.7, "reviews": 624 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 92, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "f6ab2396-b803-469b-97ee-36bcdbbdb78d",
+    "title": "Handmade Fresh Soap",
+    "location": {
+      "address": "45923 Feliks Port, 10-311, New Hieronimport",
+      "delivery": 35
+    },
+    "rating": { "average": 1.7, "reviews": 319 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 112, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "04b717de-edad-4f27-8903-641150e84f1c",
+    "title": "Awesome Plastic Mouse",
+    "location": {
+      "address": "8088 Greta Loop, 76-513, East Ewastad",
+      "delivery": 50
+    },
+    "rating": { "average": 6.7, "reviews": 832 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 128, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "ffb952d4-ed3c-4a8c-b3f1-97dc8e357966",
+    "title": "Practical Plastic Chair",
+    "location": {
+      "address": "426 Maćkowiak Point, 11-558, Witczakfurt",
+      "delivery": 40
+    },
+    "rating": { "average": 8.6, "reviews": 378 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 57, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "17cfd3c3-271f-4054-ad44-1054b74f2b32",
+    "title": "Unbranded Plastic Chicken",
+    "location": {
+      "address": "29458 Matylda Cliffs, 93-245, East Nestor",
+      "delivery": 30
+    },
+    "rating": { "average": 1.9, "reviews": 55 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 106, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "d5a96ba5-9988-434a-96b4-daaf2b52d5b1",
+    "title": "Licensed Concrete Pants",
+    "location": {
+      "address": "35464 Anastazja Meadow, 16-985, Port Tamara",
+      "delivery": 30
+    },
+    "rating": { "average": 4.3, "reviews": 86 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 88, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "46c1a42a-c358-4212-a1f7-41c93b2ead17",
+    "title": "Ergonomic Granite Keyboard",
+    "location": {
+      "address": "09213 Lipski Lane, 20-287, South Andżelika",
+      "delivery": 50
+    },
+    "rating": { "average": 4.5, "reviews": 854 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 48, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5a63b574-aed9-43d8-962a-d50fd0b6c6fa",
+    "title": "Rustic Frozen Gloves",
+    "location": {
+      "address": "219 Weronika Union, 24-724, West Adelajdaside",
+      "delivery": 75
+    },
+    "rating": { "average": 9.8, "reviews": 887 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 90, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "23b32e37-ccb5-4038-933a-501d1e6ff89b",
+    "title": "Awesome Frozen Bacon",
+    "location": {
+      "address": "99422 Maja Summit, 21-019, Kołodziejtown",
+      "delivery": 80
+    },
+    "rating": { "average": 9.2, "reviews": 230 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 89, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5f09cb82-070a-4248-9159-f5285bb3847e",
+    "title": "Handcrafted Frozen Ball",
+    "location": {
+      "address": "7631 Nadzieja Ranch, 55-714, New Wincenty",
+      "delivery": 70
+    },
+    "rating": { "average": 5.7, "reviews": 396 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 146, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5dd665c3-e221-4270-bde6-165d92062065",
+    "title": "Refined Frozen Sausages",
+    "location": {
+      "address": "353 Walenty Brook, 28-536, Romeoside",
+      "delivery": 70
+    },
+    "rating": { "average": 2.8, "reviews": 786 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 88, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "20b20173-a168-41ed-b591-64bc4ccf83cd",
+    "title": "Handmade Fresh Soap",
+    "location": {
+      "address": "51438 Penelopa Centers, 87-700, Jadwigachester",
+      "delivery": 35
+    },
+    "rating": { "average": 2.5, "reviews": 223 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 70, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "1f49965b-4b2e-48e6-9c69-f196fe88ff35",
+    "title": "Ergonomic Fresh Bike",
+    "location": {
+      "address": "600 Kostrzewa Gardens, 94-860, Lake Tymoteusz",
+      "delivery": 40
+    },
+    "rating": { "average": 6.3, "reviews": 249 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 93, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "2e933d8e-dad3-4cb6-80c9-c29df5dd1822",
+    "title": "Small Granite Mouse",
+    "location": {
+      "address": "303 Mróz Villages, 90-940, Ptakmouth",
+      "delivery": 25
+    },
+    "rating": { "average": 7, "reviews": 823 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 58, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c3b259e0-07bd-4ee7-9208-de9c585501df",
+    "title": "Small Concrete Computer",
+    "location": {
+      "address": "98559 Oliwier Key, 34-078, Lake Luiza",
+      "delivery": 25
+    },
+    "rating": { "average": 9.6, "reviews": 48 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 143, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "08c3bbb2-e640-4b7e-bd5a-cca4e43bbdd6",
+    "title": "Fantastic Soft Tuna",
+    "location": {
+      "address": "0222 Gloria Road, 38-744, West Teodor",
+      "delivery": 60
+    },
+    "rating": { "average": 6, "reviews": 22 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 47, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "b248e2ad-5534-44e3-a86f-3e53e14a0980",
+    "title": "Incredible Granite Sausages",
+    "location": {
+      "address": "2923 Artur Walk, 10-481, Roberthaven",
+      "delivery": 25
+    },
+    "rating": { "average": 2, "reviews": 216 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 88, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "036c61eb-f762-403a-bf8a-b20c097a592a",
+    "title": "Tasty Cotton Shoes",
+    "location": {
+      "address": "554 Dobrzyński Islands, 08-919, New Spirydion",
+      "delivery": 25
+    },
+    "rating": { "average": 9.8, "reviews": 891 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 60, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c0a2a0a1-d0dd-4875-a289-c2dfed322105",
+    "title": "Tasty Cotton Mouse",
+    "location": {
+      "address": "427 Konstantyn Gateway, 00-719, Liliafurt",
+      "delivery": 70
+    },
+    "rating": { "average": 2.8, "reviews": 616 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 28, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "2200479e-dbb8-4b8f-bf85-695de5460199",
+    "title": "Generic Cotton Chips",
+    "location": {
+      "address": "57540 Szymczyk Mountains, 27-571, Liliannachester",
+      "delivery": 50
+    },
+    "rating": { "average": 2.6, "reviews": 241 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 34, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "57f01bf6-5624-4ac3-83f0-d70c59f77a32",
+    "title": "Sleek Soft Fish",
+    "location": {
+      "address": "9753 Gabriela Mountain, 71-458, New Julian",
+      "delivery": 50
+    },
+    "rating": { "average": 9.3, "reviews": 922 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 47, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "94f99855-9d39-4d12-afef-f6d1f88eed71",
+    "title": "Gorgeous Granite Soap",
+    "location": {
+      "address": "6869 Borys Heights, 76-188, Cybulskiside",
+      "delivery": 55
+    },
+    "rating": { "average": 1.8, "reviews": 742 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 112, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c060676f-91f2-455e-aa7b-02b8db4b3134",
+    "title": "Refined Steel Pizza",
+    "location": {
+      "address": "31368 Gruszka Ways, 11-164, Majaborough",
+      "delivery": 80
+    },
+    "rating": { "average": 6.7, "reviews": 63 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 75, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "b062f1a3-accc-455f-a8bd-09e24f6e76b0",
+    "title": "Tasty Frozen Ball",
+    "location": {
+      "address": "1473 Polikarp Mission, 38-437, South Korneliland",
+      "delivery": 80
+    },
+    "rating": { "average": 1.5, "reviews": 589 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 111, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "841db25e-1829-4aae-944a-b87716c75ac6",
+    "title": "Rustic Fresh Soap",
+    "location": {
+      "address": "353 Nowicki Center, 75-523, Piekarskiside",
+      "delivery": 70
+    },
+    "rating": { "average": 6.1, "reviews": 975 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 72, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "e1f55041-8807-41ce-952e-787dd39394a6",
+    "title": "Intelligent Concrete Shoes",
+    "location": {
+      "address": "322 Florek Prairie, 58-793, Karolinaton",
+      "delivery": 60
+    },
+    "rating": { "average": 9, "reviews": 41 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 139, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "349b7e33-95d2-454d-b0ff-8f24f33b2fc9",
+    "title": "Gorgeous Steel Bacon",
+    "location": {
+      "address": "10929 Walentyn Cape, 78-218, Górniakberg",
+      "delivery": 45
+    },
+    "rating": { "average": 4, "reviews": 65 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 118, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "cc7e700f-a985-42e1-9342-d039798b7c78",
+    "title": "Unbranded Wooden Chair",
+    "location": {
+      "address": "83790 Kornel Landing, 67-947, Kędzierskichester",
+      "delivery": 75
+    },
+    "rating": { "average": 1.9, "reviews": 224 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 48, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c78427d7-ebea-491c-b2d6-16270d0b6661",
+    "title": "Ergonomic Granite Hat",
+    "location": {
+      "address": "4415 Włodarczyk Mount, 95-068, Dziedzicshire",
+      "delivery": 45
+    },
+    "rating": { "average": 8.3, "reviews": 796 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 42, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "16105b66-aa5c-4b34-a3eb-ff7776faec94",
+    "title": "Handcrafted Wooden Bacon",
+    "location": {
+      "address": "6443 Chojnowski Tunnel, 29-088, Ciszewskimouth",
+      "delivery": 85
+    },
+    "rating": { "average": 8.8, "reviews": 738 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 58, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "6467eb41-3a1a-40d1-b133-3e3efc921a85",
+    "title": "Unbranded Granite Shoes",
+    "location": {
+      "address": "4376 Henryk Well, 98-705, Port Bernard",
+      "delivery": 85
+    },
+    "rating": { "average": 8.9, "reviews": 634 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 29, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "03c6c929-93b8-4a03-9ffc-65b57c3a7d14",
+    "title": "Refined Cotton Ball",
+    "location": {
+      "address": "96605 Wesołowski Lock, 15-155, Skóraview",
+      "delivery": 55
+    },
+    "rating": { "average": 3.2, "reviews": 209 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 52, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "f925f6bf-7fdb-4f08-9ab9-10c68ae582af",
+    "title": "Generic Fresh Hat",
+    "location": {
+      "address": "27185 Diana Inlet, 70-590, Lake Józef",
+      "delivery": 30
+    },
+    "rating": { "average": 4, "reviews": 21 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 62, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "38c4ef26-8f38-42b3-aee9-99c49e689480",
+    "title": "Incredible Steel Chips",
+    "location": {
+      "address": "31222 Piechota Loop, 81-572, West Arkady",
+      "delivery": 30
+    },
+    "rating": { "average": 8.3, "reviews": 41 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 103, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "160c6a2b-7bd9-496a-8d68-d013b0c28c19",
+    "title": "Fantastic Cotton Salad",
+    "location": {
+      "address": "69642 Kmieć Junction, 24-666, Liliannamouth",
+      "delivery": 75
+    },
+    "rating": { "average": 6.7, "reviews": 210 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 101, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c9090b1d-6971-4e66-b1e7-9812c75c7de2",
+    "title": "Licensed Frozen Pizza",
+    "location": {
+      "address": "608 August Vista, 45-941, Apollinarymouth",
+      "delivery": 50
+    },
+    "rating": { "average": 5.7, "reviews": 584 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 119, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "a143dd0e-4797-4a49-a9dd-7e02aaf1d331",
+    "title": "Tasty Metal Soap",
+    "location": {
+      "address": "238 Andrzejewski Junctions, 05-984, Damianstad",
+      "delivery": 30
+    },
+    "rating": { "average": 6, "reviews": 547 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 51, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c8b06cd3-9cc0-4505-8fd3-2aa564142856",
+    "title": "Intelligent Frozen Bike",
+    "location": {
+      "address": "93845 Wolak Place, 97-420, Lake Różaburgh",
+      "delivery": 55
+    },
+    "rating": { "average": 4.3, "reviews": 214 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 134, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "502f1391-36b7-48db-96d9-189be5a82adf",
+    "title": "Licensed Steel Bacon",
+    "location": {
+      "address": "662 — Well, 46-364, Piaseckiton",
+      "delivery": 40
+    },
+    "rating": { "average": 3.6, "reviews": 291 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 79, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "145a6a6b-64fc-455f-be11-be59b7f3fe03",
+    "title": "Practical Cotton Chips",
+    "location": {
+      "address": "2418 Sabina Prairie, 21-656, East Ilonatown",
+      "delivery": 35
+    },
+    "rating": { "average": 9.3, "reviews": 334 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 43, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "58a606ba-4bfe-4206-aa94-f80f46e5c24e",
+    "title": "Handcrafted Fresh Chicken",
+    "location": {
+      "address": "99582 Jurek Pass, 43-432, Lilianaberg",
+      "delivery": 25
+    },
+    "rating": { "average": 7.4, "reviews": 146 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 127, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "94d13c77-c9db-445b-9465-89226e7efa47",
+    "title": "Practical Rubber Shoes",
+    "location": {
+      "address": "290 Romanowski Brooks, 60-543, Katarzynashire",
+      "delivery": 85
+    },
+    "rating": { "average": 7.9, "reviews": 893 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 38, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "14eded62-53be-48ac-a676-9393a85a39db",
+    "title": "Tasty Cotton Keyboard",
+    "location": {
+      "address": "759 Jasiński Springs, 14-796, Popławskistad",
+      "delivery": 70
+    },
+    "rating": { "average": 1.3, "reviews": 339 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 150, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "407ad7d8-1023-4235-ba19-bfb2ca46bf1f",
+    "title": "Refined Granite Pants",
+    "location": {
+      "address": "1580 Dawid Corner, 93-485, Wierzbickitown",
+      "delivery": 70
+    },
+    "rating": { "average": 2.8, "reviews": 941 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 46, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "013448bd-b400-46f2-85ed-43eb11e6f179",
+    "title": "Rustic Rubber Shoes",
+    "location": {
+      "address": "403 Skiba Unions, 73-230, West Józefmouth",
+      "delivery": 30
+    },
+    "rating": { "average": 1.2, "reviews": 709 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 108, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "d77cf326-7f15-442a-a849-241be3ab20dd",
+    "title": "Ergonomic Granite Towels",
+    "location": {
+      "address": "15142 Kita Mountain, 33-216, Biernackihaven",
+      "delivery": 35
+    },
+    "rating": { "average": 5.6, "reviews": 353 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 34, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "e555cea0-c6ba-4744-8507-3b74c4b18351",
+    "title": "Intelligent Metal Cheese",
+    "location": {
+      "address": "192 Gaweł Circles, 83-840, Martynashire",
+      "delivery": 50
+    },
+    "rating": { "average": 2.3, "reviews": 345 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 86, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5de2eabc-c09d-4193-848d-75d35182bdeb",
+    "title": "Gorgeous Soft Gloves",
+    "location": {
+      "address": "9727 Szymański Park, 81-698, South Weronika",
+      "delivery": 85
+    },
+    "rating": { "average": 6.9, "reviews": 550 },
+    "size": "SMALL",
+    "origin": "POLAND",
+    "price": { "amount": 93, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "afe47175-61ff-4e29-a8da-e5173a8997b1",
+    "title": "Generic Fresh Car",
+    "location": {
+      "address": "20617 Zachariasz Mountain, 95-654, East Lizaberg",
+      "delivery": 55
+    },
+    "rating": { "average": 2.6, "reviews": 106 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 148, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "e1ff8fc0-8c85-4907-b429-d9711637219e",
+    "title": "Generic Rubber Fish",
+    "location": {
+      "address": "23489 Cyra Point, 03-364, Kosowskiland",
+      "delivery": 75
+    },
+    "rating": { "average": 2.7, "reviews": 385 },
+    "size": "BIG",
+    "origin": "VIETNAM",
+    "price": { "amount": 21, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "1f9e0571-b3c8-4686-89a8-13dddbf327b3",
+    "title": "Fantastic Metal Fish",
+    "location": {
+      "address": "064 Serafin Meadows, 99-736, Białasville",
+      "delivery": 40
+    },
+    "rating": { "average": 10, "reviews": 234 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 116, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c181e00d-cb9e-440f-96d6-f37f5dea91f7",
+    "title": "Refined Cotton Mouse",
+    "location": {
+      "address": "7366 Jadwiga Burgs, 03-010, Zofiamouth",
+      "delivery": 60
+    },
+    "rating": { "average": 5.6, "reviews": 333 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 58, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "1cd4f1f1-afe2-4ea0-bdab-f88f8209c7c9",
+    "title": "Unbranded Plastic Fish",
+    "location": {
+      "address": "11717 Serafina Estate, 79-023, East Platon",
+      "delivery": 50
+    },
+    "rating": { "average": 9.3, "reviews": 333 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 36, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "faa2162a-36a6-4477-aa3c-8c093dec7e92",
+    "title": "Small Cotton Shoes",
+    "location": {
+      "address": "3641 Pawlicki Center, 34-074, Port Gabriela",
+      "delivery": 90
+    },
+    "rating": { "average": 7.2, "reviews": 562 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 62, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "e4f960b7-1f40-4fd3-bd5b-f385e69bf3b8",
+    "title": "Incredible Rubber Chips",
+    "location": {
+      "address": "0844 Winiarski Mountains, 44-546, Lake Dominikshire",
+      "delivery": 70
+    },
+    "rating": { "average": 8.7, "reviews": 124 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 113, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "734d8756-edb0-46c4-a9d5-aed873cf3613",
+    "title": "Refined Rubber Bacon",
+    "location": {
+      "address": "355 Waleria Shoals, 35-250, Partykaside",
+      "delivery": 70
+    },
+    "rating": { "average": 2.1, "reviews": 503 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 121, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "7cbb849a-7f83-467b-9d0e-f113adf05d23",
+    "title": "Incredible Wooden Towels",
+    "location": {
+      "address": "48894 Krakowiak Motorway, 49-430, Lizaville",
+      "delivery": 80
+    },
+    "rating": { "average": 9.3, "reviews": 849 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 128, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "00d62e33-9d60-4390-9708-8121eda05f37",
+    "title": "Practical Cotton Ball",
+    "location": {
+      "address": "05268 Grudzień Burg, 54-048, Bednarzville",
+      "delivery": 45
+    },
+    "rating": { "average": 4.7, "reviews": 354 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 15, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c0dacbbe-bc45-4399-a3ab-c2194858c158",
+    "title": "Intelligent Rubber Soap",
+    "location": {
+      "address": "1161 August Rapids, 58-044, Lake Agata",
+      "delivery": 90
+    },
+    "rating": { "average": 9.7, "reviews": 35 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 31, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "9317aa12-aff6-4d50-8575-16af83090d3f",
+    "title": "Handmade Steel Bike",
+    "location": {
+      "address": "555 Szwed Vista, 23-070, Lake Maurycy",
+      "delivery": 45
+    },
+    "rating": { "average": 6.5, "reviews": 48 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 82, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "c1d4a87f-0d85-46c4-b72d-15aab5e0bdd6",
+    "title": "Small Rubber Chips",
+    "location": {
+      "address": "77808 Oliwia Forks, 62-013, Kwintynland",
+      "delivery": 25
+    },
+    "rating": { "average": 8.9, "reviews": 907 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 102, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "dc0bcb21-0e21-4c32-a589-1c0825753383",
+    "title": "Sleek Soft Chips",
+    "location": {
+      "address": "04776 Edward Island, 80-956, Krakowiakview",
+      "delivery": 55
+    },
+    "rating": { "average": 3.9, "reviews": 511 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 44, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "1ff403ea-d9c8-423e-9560-ccec4ae16b7b",
+    "title": "Practical Fresh Ball",
+    "location": {
+      "address": "519 Urbanek Plaza, 86-286, Góralfort",
+      "delivery": 75
+    },
+    "rating": { "average": 6.7, "reviews": 395 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 30, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "d0e0f210-a0b6-405f-a9d9-d591c0f226d3",
+    "title": "Generic Rubber Hat",
+    "location": {
+      "address": "058 Barbara Skyway, 97-605, Lake Sylwia",
+      "delivery": 55
+    },
+    "rating": { "average": 6, "reviews": 418 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 30, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "4ec2b9c1-354f-4c7f-9f88-c55b82f3dc8b",
+    "title": "Handmade Soft Keyboard",
+    "location": {
+      "address": "433 Kuczyński Club, 65-280, Port Romeo",
+      "delivery": 75
+    },
+    "rating": { "average": 7.7, "reviews": 688 },
+    "size": "MEDIUM",
+    "origin": "ITALY",
+    "price": { "amount": 133, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "712a0b5c-6315-4553-972b-657573dd9aad",
+    "title": "Unbranded Soft Ball",
+    "location": {
+      "address": "8954 Gwido Streets, 93-379, Gutowskiton",
+      "delivery": 40
+    },
+    "rating": { "average": 6.9, "reviews": 281 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 143, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "f2dae2e3-d1de-4bb7-a126-83b6bcd85c3a",
+    "title": "Handmade Granite Ball",
+    "location": {
+      "address": "03834 Aleksander Trail, 18-007, East Saramouth",
+      "delivery": 30
+    },
+    "rating": { "average": 4.4, "reviews": 579 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 23, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "ab3772d3-75c6-4731-8c27-d5dc63a2b16b",
+    "title": "Ergonomic Frozen Bike",
+    "location": {
+      "address": "55665 Sylwia Heights, 79-818, West Kalistratchester",
+      "delivery": 60
+    },
+    "rating": { "average": 9.2, "reviews": 162 },
+    "size": "MEDIUM",
+    "origin": "VIETNAM",
+    "price": { "amount": 87, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "396d6013-0719-4e7c-9c2f-6ad3fd341519",
+    "title": "Sleek Rubber Shoes",
+    "location": {
+      "address": "9149 Ewelina Trail, 02-214, Barańskifurt",
+      "delivery": 70
+    },
+    "rating": { "average": 9.9, "reviews": 526 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 70, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "08443f0a-fae5-464f-a1e3-b5b36fdcd2d2",
+    "title": "Handcrafted Metal Soap",
+    "location": {
+      "address": "79837 Czerwiński Canyon, 45-707, Borysstad",
+      "delivery": 25
+    },
+    "rating": { "average": 3.6, "reviews": 552 },
+    "size": "SMALL",
+    "origin": "ITALY",
+    "price": { "amount": 28, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "5b2db01c-ba18-4a9d-9911-3aeb9210310d",
+    "title": "Rustic Metal Bike",
+    "location": {
+      "address": "85406 Malec Harbor, 38-656, East Rafałview",
+      "delivery": 30
+    },
+    "rating": { "average": 6.8, "reviews": 540 },
+    "size": "MEDIUM",
+    "origin": "POLAND",
+    "price": { "amount": 40, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "a2079688-38bd-4bb4-acc9-60e2b7d8af1d",
+    "title": "Intelligent Wooden Fish",
+    "location": {
+      "address": "341 Chloe Fork, 64-446, Aleksandrowiczstad",
+      "delivery": 65
+    },
+    "rating": { "average": 5.6, "reviews": 217 },
+    "size": "SMALL",
+    "origin": "VIETNAM",
+    "price": { "amount": 63, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "3a19cf21-67aa-43b6-8436-0d146e547442",
+    "title": "Licensed Steel Fish",
+    "location": {
+      "address": "03330 Józefina Street, 49-852, Lake Laurentynashire",
+      "delivery": 30
+    },
+    "rating": { "average": 3.5, "reviews": 584 },
+    "size": "BIG",
+    "origin": "ITALY",
+    "price": { "amount": 124, "delivery": true }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "b0d90e40-62e0-41de-8783-01f7870750ef",
+    "title": "Intelligent Soft Keyboard",
+    "location": {
+      "address": "4092 Maksymilian Mission, 01-634, Lake Miron",
+      "delivery": 75
+    },
+    "rating": { "average": 4.6, "reviews": 904 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 79, "delivery": false }
+  },
+  {
+    "image": "https://loremflickr.com/175/175/foodporn",
+    "id": "b86dbbb8-ae89-40d0-b092-89d56a6a330e",
+    "title": "Generic Cotton Ball",
+    "location": {
+      "address": "38181 Sokół Forest, 96-467, Zychborough",
+      "delivery": 30
+    },
+    "rating": { "average": 2.7, "reviews": 120 },
+    "size": "BIG",
+    "origin": "POLAND",
+    "price": { "amount": 18, "delivery": false }
+  }
+]
